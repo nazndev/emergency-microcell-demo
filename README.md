@@ -172,8 +172,8 @@ Seeking developers and engineers for:
 - Name: Nazmul Nazim
 - Location: Bangladesh
 - Background: Emergency response systems, humanitarian technology
-- LinkedIn: [Your LinkedIn profile]
-- Email: [Your email]
+- LinkedIn: https://www.linkedin.com/in/mnhnazim/
+- Email: nazndev@gmail.com
 
 ### Getting Access
 - Main Code: Private repository (available upon collaboration request)
